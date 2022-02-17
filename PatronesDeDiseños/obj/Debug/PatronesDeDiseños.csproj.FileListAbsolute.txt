@@ -1,0 +1,8 @@
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\bin\Debug\PatronesDeDiseños.exe.config
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\bin\Debug\PatronesDeDiseños.exe
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\bin\Debug\PatronesDeDiseños.pdb
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\obj\Debug\PatronesDeDiseños.csproj.AssemblyReference.cache
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\obj\Debug\PatronesDeDiseños.csproj.SuggestedBindingRedirects.cache
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\obj\Debug\PatronesDeDiseños.csproj.CoreCompileInputs.cache
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\obj\Debug\PatronesDeDiseños.exe
+C:\Users\alany\Documents\Projectos\PatronesDeDiseños\obj\Debug\PatronesDeDiseños.pdb
